@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [ ![Brand-Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brand-Frank&show_icons=true&theme=radical)  ](https://github.com/Brand-Frank/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brand-Frank)](https://github.com/Brand-Frank/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brand-Frank&layout=compact)](https://github.com/Brand-Frank/)
