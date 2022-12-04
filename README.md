@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 <!--  GitHub Repos  -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brand-Frank&repo=vim-config)](https://github.com/Brand-Frank/vim-config)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brand-Frank&repo=cjson)](https://github.com/Brand-Frank/cjson)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brand-Frank&repo=learn-git)](https://github.com/Brand-Frank/learn-git)
